@@ -2,6 +2,7 @@
   "name": "npm-explain-invalid-string-length-repro-1",
   "version": "1.0.0",
   "dependencies": {
+    "word-wrap": "1.2.3",
     "yargs": "*"
   }
 }
