@@ -1,0 +1,25 @@
+{
+  "name": "npm-explain-invalid-string-length-repro-19",
+  "version": "1.0.0",
+  "dependencies": {
+    "npm-explain-invalid-string-length-repro-1": "*",
+    "npm-explain-invalid-string-length-repro-2": "*",
+    "npm-explain-invalid-string-length-repro-3": "*",
+    "npm-explain-invalid-string-length-repro-4": "*",
+    "npm-explain-invalid-string-length-repro-5": "*",
+    "npm-explain-invalid-string-length-repro-6": "*",
+    "npm-explain-invalid-string-length-repro-7": "*",
+    "npm-explain-invalid-string-length-repro-8": "*",
+    "npm-explain-invalid-string-length-repro-9": "*",
+    "npm-explain-invalid-string-length-repro-10": "*",
+    "npm-explain-invalid-string-length-repro-11": "*",
+    "npm-explain-invalid-string-length-repro-12": "*",
+    "npm-explain-invalid-string-length-repro-13": "*",
+    "npm-explain-invalid-string-length-repro-14": "*",
+    "npm-explain-invalid-string-length-repro-15": "*",
+    "npm-explain-invalid-string-length-repro-16": "*",
+    "npm-explain-invalid-string-length-repro-17": "*",
+    "npm-explain-invalid-string-length-repro-18": "*",
+    "yargs": "*"
+  }
+}

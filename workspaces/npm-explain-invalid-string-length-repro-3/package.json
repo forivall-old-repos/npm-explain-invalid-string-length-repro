@@ -1,0 +1,9 @@
+{
+  "name": "npm-explain-invalid-string-length-repro-3",
+  "version": "1.0.0",
+  "dependencies": {
+    "npm-explain-invalid-string-length-repro-1": "*",
+    "npm-explain-invalid-string-length-repro-2": "*",
+    "yargs": "*"
+  }
+}
